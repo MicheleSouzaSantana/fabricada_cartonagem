@@ -1,0 +1,76 @@
+img{
+    max-width: 80%;
+    }
+
+  .zoom{
+    overflow: hidden;
+
+  }  
+
+  .zoom img {
+      max-width: 100;
+      -moz-transition: all 0.3s;
+      -webkit-transition: all 0.3s;
+      transition: all 0.3s;
+    }
+
+   .zoom:hover img{
+       -moz-transform: scale(1.1);
+       -webkit-transform: scale(1.1);
+       transform: scale(1.1);
+
+   } 
+
+
+  .container1{
+    background-color: #d3cbc0;
+  }
+  .container2{
+    /* background-color: #d4d8d9; */
+    background: url("../img/tile.jpg");
+    background-repeat: repeat;
+  }
+
+.bg-creme{
+    background-color: #d3cbc0;
+
+  }
+
+    .footer1{
+    background-color:#2e3b4b
+  } 
+  
+  .footer2{
+    color: white;
+    font-weight: 300;
+    
+    
+  }
+  .footer3{
+    color: white;
+    font-weight: 500;
+    
+  
+  }
+  .h2{
+      font-weight: 400;
+      /* font-size: 2rem; */
+      color: darkslategray;
+    
+  }
+
+  .h2-2{
+
+    color: darkslategray;
+    font-weight: 400;
+
+
+  }
+  .h3{
+      font-size:2rem;
+      font-weight: 400;
+      color: darkslategray;
+  }
+  .icone-size{
+      font-size: 2rem;
+  }

@@ -6617,7 +6617,7 @@ License - nucleoapp.com/license/
   background-color: #B2AFAB;
   background-position: center center;
   background-size: cover;
-  min-height: 100vh;
+  min-height: 80vh;
   max-height: 999px;
   overflow: hidden;
   position: relative;
@@ -6811,12 +6811,13 @@ License - nucleoapp.com/license/
   margin: 0;
   color: #FFFFFF;
   background: #fbf8ec;
-  background: -moz-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
-  background: -webkit-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
-  background: -ms-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
-  background: linear-gradient(to bottom, #FFFFFF 35%, #4e6773 100%);
+  background: -moz-linear-gradient(top, #FFFFFF 35%, #e3be4c 100%);
+  background: -webkit-linear-gradient(top, #FFFFFF 35%, #e3be4c 100%);
+  background: -ms-linear-gradient(top, #FFFFFF 35%, #e3be4c 100%);
+  background: linear-gradient(to bottom, #FFFFFF 35%, #e3be4c 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  
 }
 
 .presentation-subtitle {
@@ -6939,7 +6940,7 @@ License - nucleoapp.com/license/
 }
 
 .section-dark {
-  background-color: #0b1011;
+  background-color: #c59e65;
 }
 
 .section-image,

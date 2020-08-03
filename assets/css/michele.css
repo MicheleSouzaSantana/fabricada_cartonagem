@@ -23,7 +23,7 @@ img{
   
   .fundo{
     background-color:#7f5933;
-    /* background-image: url(../img/Fábrica\ Final.jpg); */
+    background-image: url(../img/Fábrica\ Final.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

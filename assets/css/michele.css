@@ -1,105 +1,139 @@
-img{
+img {
     max-width: 80%;
-    }
+}
 
-  .zoom{
+.zoom {
     overflow: hidden;
+}
 
-  }  
+.produtos1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1em #343a40, 0 0 0.2em #343a40;
+    font-weight: normal;
+}
 
-  .zoom img {
-      max-width: 100;
-      -moz-transition: all 0.3s;
-      -webkit-transition: all 0.3s;
-      transition: all 0.3s;
-    }
+.wt {
+    background-color: #22b710;
+}
 
-   .zoom:hover img{
-       -moz-transform: scale(1.1);
-       -webkit-transform: scale(1.1);
-       transform: scale(1.1);
+.orcamento {
+    min-height: 20vh;
+    justify-content: center;
+    text-align: center;
+}
 
-   } 
-  
-  .fundo{
-    background-image: url(../img/Fábrica\ Final.jpg);
+.zoom img {
+    max-width: 100;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.zoom:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.index {
+    background-position: center center;
+    background-size: cover;
+    min-height: 80vh;
+    max-height: 999px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home1 {
+    font-size: 6em;
+    font-weight: 700;
+    margin: 0;
+    color: #343a40;
+    background: #fbf8ec;
+    background: -moz-linear-gradient(top, #fff 35%, #4e6773 100%);
+    background: -webkit-linear-gradient(top, #fff 35%, #4e6773 100%);
+    background: -ms-linear-gradient(top, #fff 35%, #4e6773 100%);
+    background: linear-gradient(to bottom, #fff 35%, #4e6773 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.fundo {
+    background-image: url(../img/desfocada.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-  }
+}
 
-  .container1{
+.container1 {
     background-color: #d3cbc0;
-  }
-  .container2{
+}
+
+.container2 {
     /* background-color: #d4d8d9; */
     background: url("../img/tile.jpg");
     background-repeat: repeat;
-  }
+}
 
-.bg-creme{
+.bg-creme {
     background-color: #d3cbc0;
+}
 
-  }
+.footer1 {
+    background-color: #2e3b4b
+}
 
-    .footer1{
-    background-color:#2e3b4b
-  } 
-  
-  .footer2{
+.footer2 {
     color: white;
     font-weight: 300;
-    
-    
-  }
-  .footer3{
+}
+
+.footer3 {
     color: white;
     font-weight: 500;
-    
-  
-  }
-  .h2{
-      font-weight: 400;
-      /* font-size: 2rem; */
-      color: darkslategray;
-    
-  }
+}
 
-  .h2-2{
+.h2 {
+    font-weight: 400;
+    /* font-size: 2rem; */
+    color: darkslategray;
+}
 
+.h2-2 {
     color: darkslategray;
     font-weight: 400;
+}
 
+.h3 {
+    font-size: 2rem;
+    font-weight: 400;
+    color: black;
+    /* text-shadow: 0.1em 0.1em 0.2em black */
+}
 
-  }
-  .h3{
-      font-size:2rem;
-      font-weight: 400;
-      color: black;
-      /* text-shadow: 0.1em 0.1em 0.2em black */
-      
-  }
-  .produtos{
+.produtos {
     font-size: 3rem;
     font-weight: 600;
     color: black;
-  }
+}
 
-
-
-  .especificacao{
-
-    color:white;
+.especificacao {
+    color: white;
     text-shadow: 1px 1px 10px #000000;
-    
-  }
- 
-  .icone-size{
-      font-size: 2rem;
-  }
+}
 
-  /* .coralernativa{
+.icone-size {
+    font-size: 2rem;
+}
+
+
+/* .coralernativa{
     background: #d3cbc0;
   }
 

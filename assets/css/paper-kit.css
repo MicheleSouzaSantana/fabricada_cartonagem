@@ -6664,7 +6664,7 @@ License - nucleoapp.com/license/
 }
 
 .page-header .filter::after {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.1);
     content: "";
     display: block;
     height: 100%;

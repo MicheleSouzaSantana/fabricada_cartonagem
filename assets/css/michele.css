@@ -12,31 +12,42 @@ img {
     font-weight: normal;
 }
 
+.whatsapp {
+    position: fixed;
+    top: 72%;
+    right: ;
+    : 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
+
 .wt {
     background-color: #22b710;
 }
-.discricao{
+
+.discricao {
     font-family: inherit;
     font-size: large;
 }
+
 .orcamento {
     min-height: 15vh;
     justify-content: center;
     text-align: center;
+    background-color: #fff;
 }
-.cp{
-    font-size:large;
+
+.cp {
+    font-size: large;
     font-family: sans-serif;
 }
 
-.cp2{
+.cp2 {
     font-family: sans-serif;
-
 }
-.chapas{
-    background-color:antiquewhite;
-    
-    
+
+.chapas {
+    background-color: antiquewhite;
 }
 
 .zoom img {

@@ -15,11 +15,23 @@ img {
 .wt {
     background-color: #22b710;
 }
-
+.discricao{
+    font-family: inherit;
+    font-size: large;
+}
 .orcamento {
     min-height: 15vh;
     justify-content: center;
     text-align: center;
+}
+.cp{
+    font-size:large;
+}
+
+.chapas{
+    background-color:antiquewhite;
+    
+    
 }
 
 .zoom img {

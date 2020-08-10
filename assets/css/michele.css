@@ -26,8 +26,13 @@ img {
 }
 .cp{
     font-size:large;
+    font-family: sans-serif;
 }
 
+.cp2{
+    font-family: sans-serif;
+
+}
 .chapas{
     background-color:antiquewhite;
     

@@ -12,6 +12,11 @@ img {
     font-weight: normal;
 }
 
+.opacity {
+    opacity: 0.5;
+    background-color: aliceblue;
+}
+
 .whatsapp {
     position: fixed;
     top: 72%;

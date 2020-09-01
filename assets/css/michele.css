@@ -12,11 +12,6 @@ img {
     font-weight: normal;
 }
 
-.opacity {
-    opacity: 0.5;
-    background-color: aliceblue;
-}
-
 .whatsapp {
     position: fixed;
     top: 72%;
@@ -71,7 +66,7 @@ img {
 .index {
     background-position: center center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 90vh;
     max-height: 999px;
     overflow: hidden;
     position: relative;

@@ -6,37 +6,49 @@ img {
     overflow: hidden;
 }
 
+
 .produtos1 {
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 1em #343a40, 0 0 0.2em #343a40;
     font-weight: normal;
 }
 
+.whatsapp {
+    position: fixed;
+    top: 72%;
+    right: ;
+    : 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
+
 .wt {
     background-color: #22b710;
 }
-.discricao{
+
+.discricao {
     font-family: inherit;
     font-size: large;
 }
+
 .orcamento {
     min-height: 15vh;
     justify-content: center;
     text-align: center;
+    background-color: #fff;
 }
-.cp{
-    font-size:large;
+
+.cp {
+    font-size: large;
     font-family: sans-serif;
 }
 
-.cp2{
+.cp2 {
     font-family: sans-serif;
-
 }
-.chapas{
-    background-color:antiquewhite;
-    
-    
+
+.chapas {
+    background-color: antiquewhite;
 }
 
 .zoom img {
@@ -55,7 +67,7 @@ img {
 .index {
     background-position: center center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 90vh;
     max-height: 999px;
     overflow: hidden;
     position: relative;
@@ -132,6 +144,12 @@ img {
     font-weight: 400;
     color: black;
     /* text-shadow: 0.1em 0.1em 0.2em black */
+}
+
+.discricao-produto{
+    
+    font-size: large;
+    font-weight: normal;
 }
 
 .produtos {
